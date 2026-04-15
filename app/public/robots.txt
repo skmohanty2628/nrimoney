@@ -1,0 +1,10 @@
+# public/robots.txt — put this in your /public folder
+
+User-agent: *
+Disallow: /admin
+Disallow: /admin/
+
+# Allow everything else
+Allow: /
+
+Sitemap: https://yournrisite.com/sitemap.xml
