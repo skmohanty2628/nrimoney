@@ -18,7 +18,7 @@ export const metadata = {
   },
   twitter: { card: 'summary_large_image', title: 'NRI Money Guide', description: 'India\'s trusted NRI finance resource.' },
   robots: { index: true, follow: true },
-  verification: { google: 'YOUR_GOOGLE_VERIFICATION_CODE' },
+  verification: { google: 'f32dc886c29dbd11' },
 }
 
 export default function RootLayout({ children }) {
