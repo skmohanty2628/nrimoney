@@ -1,4 +1,4 @@
-import { allArticles } from '@/data/articles'
+import { allArticles } from '../data/articles'
 
 export default function sitemap() {
   const base = process.env.NEXT_PUBLIC_SITE_URL || 'https://nrimoneytalk.com'
